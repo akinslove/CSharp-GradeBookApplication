@@ -53,7 +53,7 @@ namespace GradeBookTests
                 StreamWriter standardOutput = new StreamWriter(Console.OpenStandardOutput());
                 Console.SetOut(standardOutput);
             }
-
+            /*
             var students = new List<Student>
                 {
                     new Student("jamie",StudentType.Standard,EnrollmentType.Campus)
@@ -99,6 +99,7 @@ namespace GradeBookTests
                 StreamWriter standardOutput = new StreamWriter(Console.OpenStandardOutput());
                 Console.SetOut(standardOutput);
             }
+            */
         }
 
         /// <summary>
