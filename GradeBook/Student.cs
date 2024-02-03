@@ -7,6 +7,9 @@ using GradeBook.Enums;
 
 namespace GradeBook
 {
+    /// <summary>
+    /// olu test
+    /// </summary>
     public class Student
     {
         public string Name { get; set; }
